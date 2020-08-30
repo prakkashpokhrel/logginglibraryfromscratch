@@ -1,0 +1,2 @@
+# logginglibraryfromscratch
+Simple logging library
